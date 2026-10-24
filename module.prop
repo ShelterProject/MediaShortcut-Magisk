@@ -1,0 +1,6 @@
+id=media_shortcuts
+name=Media Shortcuts
+version=v1.0
+versionCode=1
+author=Shelter
+description=Script to create quick access shortcuts to Telegram and WhatsApp media folders directly from the root /sdcard directory.
